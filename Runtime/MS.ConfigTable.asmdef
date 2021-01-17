@@ -1,0 +1,14 @@
+{
+    "name": "MS.ConfigTable",
+    "references": [
+        "MS.LitCSV"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
