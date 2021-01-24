@@ -19,7 +19,7 @@ In developing, API maybe unstable.
 add follow to Package/manifest.json
 
 ```
-"com.ms.configtable":"https://github.com/wlgys8/UnityConfigTable.git"
+"com.ms.configtable":"https://github.com/wlgys8/ConfigTableCSharp.git"
 ```
 
 # Quick Usage
